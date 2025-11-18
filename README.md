@@ -15,10 +15,13 @@ _A passionate LLM researcher, currently focused on understanding social intellig
 </div>
 
 ## 🧩 Current interests
-  🤖 Large Language Models (LLMs) and Prompting Mechanisms\
-  🧠 Social Intelligence, theory-of-mind, pragmatics in NLP  
-  🧪 Benchmark design, reproducibility, evaluation metrics  
-  🧑🏼‍💻 Software Engineering and Production
+  -  🤖 Large Language Models (LLMs) and Prompting Mechanisms
+  
+  -  🧠 Social Intelligence, theory-of-mind, pragmatics in NLP  
+  
+  -  🧪 Benchmark design, reproducibility, evaluation metrics  
+  
+  - 🧑🏼‍💻 Software Engineering and Production
 
 ## 🔭 Currently Working on...
 **Benchmarking social intelligence in LLMs** — designing well-crafted interpretable, multi-facet evaluation frameworks for studying social intelligence in LLMs — 
@@ -35,7 +38,7 @@ with a focus on theory of mind and behavioral intelligence...
  </p>
 </div>
 -->
-
+\
 ## 🛠 Skills & tools
 ![Verilog](https://img.shields.io/badge/Verilog-EE0000?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
