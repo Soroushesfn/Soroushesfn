@@ -7,7 +7,6 @@
 <div align="center">
 
 # Hi👋,  I'm _Soroush_
-### 3rd-year B.Sc. Computer Engineering, University of Tehran
 _A passionate LLM researcher, currently focused on understanding social intelligence in LLMs_
 
 <!-- [![Profile Views](https://komarev.com/ghpvc/?username=Soroushesfn&color=0e75b6)](https://github.com/Soroushesfn) -->
