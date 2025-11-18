@@ -15,18 +15,19 @@ _A passionate LLM researcher, currently focused on understanding social intellig
 </div>
 
 ## 🧩 Current interests
+---
   🤖 Large Language Models (LLMs) and Prompting Mechanisms\
   🧠 Social Intelligence, theory-of-mind, pragmatics in NLP  
   🧪 Benchmark design, reproducibility, evaluation metrics  
   🧑🏼‍💻 Software Engineering and Production
 
----
-
 ## 🔭 Currently Working on...
+---
 **Benchmarking social intelligence in LLMs** — designing well-crafted interpretable, multi-facet evaluation frameworks for studying social intelligence in LLMs — 
 with a focus on theory of mind and behavioral intelligence...
 
 ## 🔎 Previous Projects
+---
 - **SSL-in-a-3D-Multi-Surface-Environment** — Deep Leaning-based Sound Source localization in a 3D multi-surface environment
 
 <div align="center">
@@ -71,7 +72,7 @@ Environment Using Learning-Based Methods</a>
 
 ## 📫 Contact
 - University: University of Tehran — B.Sc. Computer Engineering (3rd year)  
-- Academical Emial: Soroushesfahanian@ut.ac.ir
+- Academic Email: Soroushesfahanian@ut.ac.ir
 - Persoanl Email: Soroush.Esfahanian83@gmail.com 
 <!-- - LinkedIn: -->
 <!-- - Website -->
