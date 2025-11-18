@@ -10,15 +10,15 @@
 ### 3rd-year B.Sc. Computer Engineering, University of Tehran
 _A passionate LLM researcher, currently focused on understanding social intelligence in LLMs_
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Soroushesfn&color=0e75b6)](https://github.com/Soroushesfn)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=Soroushesfn&color=0e75b6)](https://github.com/Soroushesfn) -->
 
 </div>
 
 ## 🧩 Current interests
-🤖 Large Language Models (LLMs) and Prompting Mechanisms\
-🧠 Social Intelligence, theory-of-mind, pragmatics in NLP  
-🧪 Benchmark design, reproducibility, evaluation metrics  
-🧑🏼‍💻 Software Engineering and Production
+  🤖 Large Language Models (LLMs) and Prompting Mechanisms\
+  🧠 Social Intelligence, theory-of-mind, pragmatics in NLP  
+  🧪 Benchmark design, reproducibility, evaluation metrics  
+  🧑🏼‍💻 Software Engineering and Production
 
 ---
 
@@ -26,9 +26,16 @@ _A passionate LLM researcher, currently focused on understanding social intellig
 **Benchmarking social intelligence in LLMs** — designing well-crafted interpretable, multi-facet evaluation frameworks for studying social intelligence in LLMs — 
 with a focus on theory of mind and behavioral intelligence...
 
----
+## 🔎 Previous Projects
+- **SSL-in-a-3D-Multi-Surface-Environment** — Deep Leaning-based Sound Source localization in a 3D multi-surface environment
 
-## 🛠 Skills & tools
+<div align="center">
+<p>
+  <a href="https://github.com/Soroushesfn/SSL-in-a-3D-Multi-Surface-Environment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soroushesfn&repo=SSL-in-a-3D-Multi-Surface-Environment&title_color=0e75b6&icon_color=0e75b6&text_color=333333&bg_color=ffffff&layout=compact" />
+  </a>
+ </p>
+</div>
 
 ![Verilog](https://img.shields.io/badge/Verilog-EE0000?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
@@ -49,61 +56,22 @@ with a focus on theory of mind and behavioral intelligence...
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-
-
----
-
-## 🔎 Previous Projects
-- **SSL-in-a-3D-Multi-Surface-Environment** — Deep Leaning-based Sound Source localization in a 3D multi-surface environment
-
-  <div align="center">
-  <p>
-  <a href="https://github.com/Soroushesfn/SSL-in-a-3D-Multi-Surface-Environment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soroushesfn&repo=SSL-in-a-3D-Multi-Surface-Environment&title_color=0e75b6&icon_color=0e75b6&text_color=333333&bg_color=ffffff&layout=compact" />
-  </a>
-  </p>
-  </div>
-- **Video-Category-Detection** — Category detection of Youtube videos using a proposed multi-branched deep learning model  
-  <div align="center">
-  <p>
-  <a href="https://github.com/Soroushesfn/Video-Category-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soroushesfn&repo=Video-Category-Detection&title_color=0e75b6&icon_color=0e75b6&text_color=333333&bg_color=ffffff&layout=compact" />
-  </a>
-  </p>
-  </div>`
----
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soroushesfn&show_icons=true&count_private=true&title_color=0e75b6&icon_color=0e75b6&text_color=333333&bg_color=ffffff" alt="GitHub stats" />
-  </p>
+<div align="center">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soroushesfn&layout=compact&langs_count=6&title_color=0e75b6&text_color=333333&bg_color=ffffff" alt="Top languages" />
   </p>
 </div>
 
-*(These cards are provided by GitHub-Readme-Stats and are a common minimal way to show up-to-date public metrics.)* :contentReference[oaicite:1]{index=1}
 
----
+## ⚡Quick links
+<!-- - Resume/CV — `[link]`   -->
+- Publications & Preprints:
+<a href=https://ieeexplore.ieee.org/abstract/document/10903645/https://ieeexplore.ieee.org/abstract/document/10903645/ >Sound Source Localization in a 3D Multi-Surface
+Environment Using Learning-Based Methods</a> 
 
 ## 📫 Contact
 - University: University of Tehran — B.Sc. Computer Engineering (3rd year)  
-- Email: you@example.com  
-- LinkedIn / Website: (add links)
-
----
-
-## ⚡ Quick links
-- Resume/CV — `[link]`  
-- Publications / Preprints — `[link]`  
-- Talks / Slides — `[link]`
-
----
-
-## ✨ Small things I like
-- Reproducibility, clean datasets, and clear metrics  
-- Short, well-documented experiments that others can re-run
-
----
-
-<p align="center">
-  Built with ❤️ • Minimal · Professional · Reproducible
-</p>
+- Academical Emial: Soroushesfahanian@ut.ac.ir
+- Persoanl Email: Soroush.Esfahanian83@gmail.com 
+<!-- - LinkedIn: -->
+<!-- - Website -->
