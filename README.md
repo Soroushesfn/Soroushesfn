@@ -36,7 +36,7 @@ with a focus on theory of mind and behavioral intelligence...
 </div>
 -->
 
-🛠 Skills & tools
+## 🛠 Skills & tools
 ![Verilog](https://img.shields.io/badge/Verilog-EE0000?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
 ![ANTLR](https://img.shields.io/badge/ANTLR-E33332?style=flat&logo=antlr&logoColor=white)
