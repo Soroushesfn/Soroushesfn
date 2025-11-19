@@ -54,7 +54,8 @@ Environment Using Learning-Based Methods</a>
 </div>
 
 ## 📫 Contact
-- University: University of Tehran — B.Sc. Computer Engineering (3rd year)  
+- University: University of Tehran — B.Sc. Computer Engineering (3rd year)
+- Linkedin: <a href="https://www.linkedin.com/in/Soroushesfn/">Soroushesfn</a>  
 - Academical Emial: Soroushesfahanian@ut.ac.ir
 - Persoanl Email: Soroush.Esfahanian83@gmail.com 
 <!-- - LinkedIn: -->
